@@ -1,0 +1,4 @@
+name: Tutorialplugin
+version: '${version}'
+main: com.tistory.localhost.tutorialplugin.Tutorialplugin
+api-version: 1.19
